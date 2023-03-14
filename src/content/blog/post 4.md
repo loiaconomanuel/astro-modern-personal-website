@@ -2,14 +2,8 @@
 title: "suburbs"
 description: "Prova di un post sulle suburbs."
 pubDate: "mar 14 2023"
-heroImage: "/post_img.webp"
+heroImage: "/0x0.jpeg"
 ---
-
-# suburbs
-
-Anno: 1'
-Created time: January 25, 2023 6:34 PM
-Materia: media e territorio
 
 il sentimento antiurbano portava gli americani a vedere la città industriale come una città pericolosa.
 
@@ -32,6 +26,10 @@ il periodo d’oro è il secolo breve americano tra il 1945 e il 1975, gli stati
 grande impennata della natalità baby boomers (1945-1960), quindi nasce una grande richiesta di alloggi, iniziano quindi a sorgere queste suburbs
 
 [alt text](https://imageio.forbes.com/specials-images/imageserve/1184449479/0x0.jpg?format=jpg&width=1200)
+
+<img src="markdownmonstericon.png" (0x0.jpeg)
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 tutti questi agglomerati erano fatte con lo stampino:
 
