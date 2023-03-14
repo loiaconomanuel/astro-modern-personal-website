@@ -31,6 +31,8 @@ il periodo d’oro è il secolo breve americano tra il 1945 e il 1975, gli stati
 
 grande impennata della natalità baby boomers (1945-1960), quindi nasce una grande richiesta di alloggi, iniziano quindi a sorgere queste suburbs
 
+[alt text](https://imageio.forbes.com/specials-images/imageserve/1184449479/0x0.jpg?format=jpg&width=1200)
+
 tutti questi agglomerati erano fatte con lo stampino:
 
 - ubicazione periferica
