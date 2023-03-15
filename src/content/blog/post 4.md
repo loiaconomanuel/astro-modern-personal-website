@@ -27,7 +27,7 @@ grande impennata della natalità baby boomers (1945-1960), quindi nasce una gran
 
 [alt text](https://imageio.forbes.com/specials-images/imageserve/1184449479/0x0.jpg?format=jpg&width=1200)
 
-<img src="https://imageio.forbes.com/specials-images/imageserve/1184449479/0x0.jpg?format=jpg&width=1200" alt="suburbs pic" style="width:500px;height:600px;">
+<img src="https://imageio.forbes.com/specials-images/imageserve/1184449479/0x0.jpg?format=jpg&width=1200" alt="suburbs pic" style="width:500px;height:500x;">
 
 
 tutti questi agglomerati erano fatte con lo stampino:
