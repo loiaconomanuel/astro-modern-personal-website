@@ -1,7 +1,7 @@
 ---
 title: "Tabella"
 description: "Prova tabella con dentro un po' di lorem"
-pubDate: "mar 14 2023"
+pubDate: "mar 15 2023"
 heroImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2009_Hmong_Flag_Football_WI_RPI_Rankings.jpg/1200px-2009_Hmong_Flag_Football_WI_RPI_Rankings.jpg"
 ---
 
