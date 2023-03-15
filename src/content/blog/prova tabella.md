@@ -1,8 +1,8 @@
 ---
-title: "suburbs"
-description: "Prova di un post sulle suburbs."
+title: "Tabella"
+description: "Prova tabella con dentro un po' di lorem"
 pubDate: "mar 14 2023"
-heroImage: "/0x0.jpeg"
+heroImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2009_Hmong_Flag_Football_WI_RPI_Rankings.jpg/1200px-2009_Hmong_Flag_Football_WI_RPI_Rankings.jpg"
 ---
 
 Altro articolo di prova in md con tabella perché voglio vedere come si vede sul sito, adesso aggiungo un po' di **lorem**
